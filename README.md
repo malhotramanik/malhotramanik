@@ -1,4 +1,4 @@
-### Hello World, I'm Manik
+<!-- ### Hello World, I'm Manik -->
 
 <!--
 **malhotramanik/malhotramanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
