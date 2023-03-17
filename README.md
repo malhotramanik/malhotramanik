@@ -1,20 +1,10 @@
-<!-- ### Hello World, I'm Manik -->
+<!-- ![Into Image](images/helloworld.png) -->
+            
 
-<!--
-**malhotramanik/malhotramanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World, I'm `Manik Malhotra` <img src="https://developer.android.com/static/images/logos/android.svg" width="2%" height="2%">
 
-Here are some ideas to get you started:
+- SDE - III (Android) at [Porter](https://www.linkedin.com/company/theporter-in/) 🚚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Into Image](images/helloworld.png)
-
-- I’m currently working with [Porter](https://www.linkedin.com/company/theporter-in/) 🚚
+[![Linkedin: malhotramanik](https://img.shields.io/badge/-malhotramanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malhotramanik/)](https://www.linkedin.com/in/malhotramanik/)
+[![GitHub malhotramanik](https://img.shields.io/github/followers/malhotramanik?label=follow&style=social)](https://github.com/malhotramanik)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=malhotramanik.malhotramanik)
