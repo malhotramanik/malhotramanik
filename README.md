@@ -35,15 +35,10 @@ I engineer backend systems that hold up under real production pressure.
 - Automate repetitive engineering toil
 - Keep systems boring in production
 
-## GitHub Pulse
+## GitHub Streak
 
 <div align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malhotramanik&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=3600&disable_animations=true" />
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotramanik&layout=compact&hide_border=true&cache_seconds=3600&disable_animations=true" />
-</div>
-
-<div align="center">
-  <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=malhotramanik&hide_border=true&disable_animations=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=malhotramanik&hide_border=true" />
 </div>
 
 <p align="center"><i>Fast systems. Clear ownership. Fewer production surprises.</i></p>
