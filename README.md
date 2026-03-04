@@ -13,10 +13,11 @@
 
 ## 💼 About Me
 
-I engineer **backend systems that scale**. Building high-throughput platforms that stay reliable under production pressure.
+I engineer **backend systems that scale**. Started with Android, now fully focused on building high-throughput platforms that stay reliable under production pressure.
 
 - 🚀 SDE - III at [Porter](https://www.linkedin.com/company/theporter-in/)
 - 🔧 Building scalable order management systems
+- 📱 Former Android engineer — shipped apps to millions of users
 - 📊 Performance & reliability obsessed
 
 ---
@@ -30,6 +31,7 @@ I engineer **backend systems that scale**. Building high-throughput platforms th
   databases: ["PostgreSQL", "Redis"],
   messaging: ["Kafka"],
   devops: ["Docker", "Kubernetes", "GitHub Actions"],
+  mobile: ["Android", "MVVM"],
   focus: ["Distributed Systems", "Performance", "Observability"]
 }
 ```
