@@ -3,7 +3,7 @@
 <h1 align="center">👋 Manik Malhotra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=Building+high-scale+backend+systems;Kotlin+%7C+Spring+Boot+%7C+Distributed+Architecture;Performance%2C+Reliability%2C+and+Observability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=Building+high-scale+backend+systems;Kotlin+%7C+Spring+Boot+%7C+Distributed+Systems;Performance%2C+Reliability%2C+and+Observability" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-I engineer **backend systems that scale**. Started with Android, now fully focused on building high-throughput platforms that stay reliable under production pressure.
+I engineer **backend systems that scale**. Focused on building high-throughput platforms that stay reliable under production pressure.
 
 - 🚀 SDE - III at [Porter](https://www.linkedin.com/company/theporter-in/)
 - 🔧 Building scalable order management systems
