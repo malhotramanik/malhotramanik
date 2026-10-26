@@ -8,46 +8,82 @@
 </p>
 
 <p align="center">
-  <a href="https://malhotramanik.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-malhotramanik.github.io-18222B?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/malhotramanik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malhotramanik-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:malhotramanik1992@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malhotramanik1992%40gmail.com-5E6B76?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=malhotramanik&style=flat-square&color=5E6B76">
+  <a href="https://malhotramanik.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-malhotramanik.github.io-E8A317?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/malhotramanik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:malhotramanik1992@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=malhotramanik&style=for-the-badge&color=18222B">
 </p>
 
-## About
+<br>
 
-I build **the backend that moves a million orders a day**. I've spent 10+ years in software, the last 7 on backend and distributed platforms: high-throughput systems that stay reliable under production pressure.
-
-At [Porter](https://www.linkedin.com/company/theporter-in/) I own the **order-lifecycle domain** (1M+ orders a day, 2,000+ requests per second). My time goes into domain design, database performance, platform reliability, and org-wide tooling, including LLM-powered observability and AI-assisted engineering workflows.
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>About</h3>
+      <p>I build <b>the backend that moves a million orders a day</b>.</p>
+      <p>10+ years in software, the last 7 on backend and distributed platforms: high-throughput systems that stay reliable under production pressure.</p>
+      <p>At <a href="https://www.linkedin.com/company/theporter-in/">Porter</a> I own the <b>order-lifecycle domain</b>, and spend my time on domain design, database performance, and org-wide tooling, including LLM-powered observability and AI-assisted engineering.</p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>At a glance</h3>
+      <p>📦 <b>1M+</b> orders a day</p>
+      <p>⚡ <b>2,000+</b> requests per second</p>
+      <p>🧭 <b>10+</b> years engineering</p>
+      <p>📍 Bengaluru, India</p>
+    </td>
+  </tr>
+</table>
 
 ## Now at Porter
 
-- **Re-architecting the order lifecycle.** Splitting the domain into clear subdomains and high-throughput pipelines, so teams ship new order flows without stepping on each other.
-- **Automated PostgreSQL partitioning.** Partitioning our largest tables automatically, cutting slow queries and lowering database CPU cost.
-- **An LLM agent that watches the database.** Real-time load monitoring with automatically written incident reports, so we notice problems sooner.
-- **Proof of Delivery.** Designed end to end across the driver, customer, and operations systems.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ Order-lifecycle re-architecture</h4>
+      Clear subdomains and high-throughput pipelines, so teams ship new order flows without stepping on each other.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Automated PostgreSQL partitioning</h4>
+      Our largest tables partition themselves, cutting slow queries and database CPU cost.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 An LLM agent that watches the database</h4>
+      Real-time load monitoring with automatically written incident reports, so we notice problems sooner.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📸 Proof of Delivery</h4>
+      Designed end to end across the driver, customer, and operations systems.
+    </td>
+  </tr>
+</table>
 
 ## Toolkit
 
-| | |
-|---|---|
-| **Languages** | Kotlin, Java, Python |
-| **Backend** | Spring Boot, Kafka, REST, gRPC |
-| **Architecture** | Domain-Driven Design, event-driven, hexagonal, microservices |
-| **Data** | PostgreSQL, Redis, DynamoDB |
-| **Infrastructure** | Docker, Kubernetes, GitHub Actions |
-| **Observability** | Grafana, Datadog, LLM-based monitoring |
-| **Mobile** | Android, Kotlin Multiplatform, Jetpack |
+<p align="center">
+  <img alt="Kotlin, Java, Python, Spring, Kafka, PostgreSQL, Redis, AWS, Docker, Kubernetes, GitHub Actions, Grafana, Android Studio" src="https://skillicons.dev/icons?i=kotlin,java,py,spring,kafka,postgres,redis,aws,docker,kubernetes,githubactions,grafana,androidstudio&perline=13" />
+</p>
+
+<p align="center">
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white">
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
+  <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="LLM Agents" src="https://img.shields.io/badge/LLM_Agents-18222B?style=flat-square&logo=openaigym&logoColor=white">
+</p>
+
+<p align="center"><sub>Domain-Driven Design &nbsp;/&nbsp; Event-driven &nbsp;/&nbsp; Hexagonal &nbsp;/&nbsp; Microservices</sub></p>
 
 ## Where I've worked
 
-| Role | Company | Period |
-|---|---|---|
-| **Senior Software Engineer (SDE-3)** | Porter | Oct 2022 – present |
-| Senior Developer | Publicis Sapient | Mar 2021 – Oct 2022 |
-| Senior Developer | Coolwinks Technologies | Oct 2019 – Mar 2021 |
-| Lead Engineer | HCL Technologies | Oct 2017 – Sep 2019 |
-| Software Engineer | Appzlogic Mobility Solutions | Mar 2016 – Oct 2017 |
+| | Role | Company | Period |
+|:-:|---|---|---|
+| 🟡 | **Senior Software Engineer (SDE-3)** | **Porter** | Oct 2022 – present |
+| ⚪ | Senior Developer | Publicis Sapient | Mar 2021 – Oct 2022 |
+| ⚪ | Senior Developer | Coolwinks Technologies | Oct 2019 – Mar 2021 |
+| ⚪ | Lead Engineer | HCL Technologies | Oct 2017 – Sep 2019 |
+| ⚪ | Software Engineer | Appzlogic Mobility Solutions | Mar 2016 – Oct 2017 |
 
 <details>
 <summary>Highlights from earlier roles</summary>
@@ -62,10 +98,14 @@ At [Porter](https://www.linkedin.com/company/theporter-in/) I own the **order-li
 
 ## How I work
 
-- **Simple by default.** Complexity has to earn its place in production.
-- **Measure first.** Optimise where the numbers say it matters.
-- **Automate toil.** Let machines, and agents, do the repetitive work.
-- **Boring in production.** Predictable beats clever.
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Simple by default</b><br><sub>Complexity has to earn its place in production.</sub></td>
+    <td align="center" width="25%"><b>Measure first</b><br><sub>Optimise where the numbers say it matters.</sub></td>
+    <td align="center" width="25%"><b>Automate toil</b><br><sub>Let machines, and agents, do the repetitive work.</sub></td>
+    <td align="center" width="25%"><b>Boring in production</b><br><sub>Predictable beats clever.</sub></td>
+  </tr>
+</table>
 
 ## Contribution activity
 
